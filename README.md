@@ -1,4 +1,4 @@
-![280516290-a9b44cbc-15db-4821-8dc7-7a22cd5999a4](https://github.com/sivabalan28/EX-10-Simulating-Clustering-using-WEKA-Data-mining-and-Analysis-Tool/assets/113497347/acdc77fc-5770-4d8a-bac5-2769f59a319a)# EX-10-Simulating-Clustering-using-WEKA-Data-mining-and-Analysis-Tool
+# EX-10-Simulating-Clustering-using-WEKA-Data-mining-and-Analysis-Tool
 # AIM:
 To perform a classification technique using WEKA tool
 
